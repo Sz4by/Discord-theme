@@ -10,27 +10,27 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#000000",
+      "#d4af37",
       "#000000"
     ],
     "HEADER_SECONDARY": [
-      "#000000",
+      "#d4af37",
       "#000000"
     ],
     "TEXT_NORMAL": [
-      "#d4af37",
+      "#000000",
       "#000000"
     ],
     "TEXT_MUTED": [
-      "#d4af37",
+      "#000000",
       "#000000"
     ],
     "TEXT_LINK": [
-      "#d4af37",
+      "#000000",
       "#000000"
     ],
     "INTERACTIVE_NORMAL": [
-      "#d4af37",
+      "#000000",
       "#000000"
     ],
     "INTERACTIVE_HOVER": [
