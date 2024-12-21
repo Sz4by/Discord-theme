@@ -1,5 +1,5 @@
 {
-  "name": "gothgold",
+  "name": "gotgold",
   "description": "a gothic gold theme",
   "spec": "2",
   "authors": [
@@ -148,11 +148,11 @@
     "PRIMARY_160": "#000000",
     "PRIMARY_200": "#000000",
     "PRIMARY_230": "#000000",
-    "PRIMARY_300": "#d4af37",
-    "PRIMARY_360": "#d4af37",
-    "PRIMARY_400": "#d4af37",
-    "PRIMARY_460": "#d4af37",
-    "PRIMARY_500": "#d4af37",
+    "PRIMARY_300": "#000000",
+    "PRIMARY_360": "#000000",
+    "PRIMARY_400": "#000000",
+    "PRIMARY_460": "#000000",
+    "PRIMARY_500": "#000000",
     "PRIMARY_560": "#000000",
     "PRIMARY_630": "#000000",
     "PRIMARY_645": "#000000",
